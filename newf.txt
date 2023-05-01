@@ -1,2 +1,0 @@
-Hello
-this is my new feature file
