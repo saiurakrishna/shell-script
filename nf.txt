@@ -1,3 +1,0 @@
-Hello
-checking git pull and fetch
-checking pull
